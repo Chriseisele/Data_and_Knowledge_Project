@@ -1,0 +1,506 @@
+﻿name;gender
+3M Company;male
+A.O. Smith Corp;male
+Abbott Laboratories;male
+AbbVie Inc.;male
+ABIOMED Inc;male
+Accenture plc;female
+Activision Blizzard;male
+Adobe Inc.;male
+Advance Auto Parts;female
+Advanced Micro Devices Inc;male
+AES Corp;male
+AFLAC Inc;male
+Agilent Technologies Inc;male
+Air Products & Chemicals Inc;male
+Akamai Technologies Inc;male
+Alaska Air Group Inc;male
+Albemarle Corp;male
+Alexandria Real Estate Equities;male
+Alexion Pharmaceuticals;male
+Align Technology;male
+Allegion;male
+Alliant Energy Corp;male
+Allstate Corp;male
+Alphabet Inc. (Class A);male
+Alphabet Inc. (Class C);male
+Altria Group Inc;male
+Amazon.com Inc.;male
+Amcor plc;male
+Ameren Corp;male
+American Airlines Group;male
+American Electric Power;male
+American Express Co;male
+American International Group;male
+American Tower Corp.;male
+American Water Works Company Inc;male
+Ameriprise Financial;male
+AmerisourceBergen Corp;male
+AMETEK Inc.;male
+Amgen Inc.;male
+Amphenol Corp;male
+Analog Devices Inc.;male
+ANSYS;male
+Anthem;female
+Aon plc;male
+Apache Corporation;male
+Apartment Investment & Management;male
+Apple Inc.;male
+Applied Materials Inc.;male
+Aptiv PLC;male
+Archer-Daniels-Midland Co;male
+Arista Networks;female
+Arthur J. Gallagher & Co.;male
+Assurant;male
+AT&T Inc.;male
+Atmos Energy;male
+Autodesk Inc.;male
+Automatic Data Processing;male
+AutoZone Inc;male
+AvalonBay Communities;male
+Avery Dennison Corp;male
+Baker Hughes Co;male
+Ball Corp;male
+Bank of America Corp;male
+Baxter International Inc.;male
+Becton Dickinson;male
+Berkshire Hathaway;male
+Best Buy Co. Inc.;female
+Bio-Rad Laboratories;male
+Biogen Inc.;male
+BlackRock;male
+Boeing Company;male
+Booking Holdings Inc;male
+BorgWarner;male
+Boston Properties;male
+Boston Scientific;male
+Bristol-Myers Squibb;male
+Broadcom Inc.;male
+Broadridge Financial Solutions;male
+Brown-Forman Corp.;male
+C. H. Robinson Worldwide;male
+Cabot Oil & Gas;male
+Cadence Design Systems;male
+Campbell Soup;male
+Capital One Financial;male
+Cardinal Health Inc.;male
+Carmax Inc;male
+Carnival Corp.;male
+Carrier Global;male
+Caterpillar Inc.;male
+Cboe Global Markets;male
+CBRE Group;male
+CDW;male
+Celanese;male
+Centene Corporation;male
+CenterPoint Energy;male
+CenturyLink Inc;male
+Cerner;male
+CF Industries Holdings Inc;male
+Charles Schwab Corporation;male
+Charter Communications;male
+Chevron Corp.;male
+Chipotle Mexican Grill;male
+Chubb Limited;male
+Church & Dwight;male
+CIGNA Corp.;male
+Cincinnati Financial;male
+Cintas Corporation;male
+Cisco Systems;male
+Citigroup Inc.;male
+Citizens Financial Group;male
+Citrix Systems;male
+CME Group Inc.;male
+CMS Energy;male
+Coca-Cola Company;male
+Cognizant Technology Solutions;male
+Colgate-Palmolive;male
+Comcast Corp.;male
+Comerica Inc.;male
+Conagra Brands;male
+Concho Resources;male
+ConocoPhillips;male
+Consolidated Edison;male
+Constellation Brands;male
+Copart Inc;male
+Corning Inc.;male
+Corteva;male
+Costco Wholesale Corp.;male
+Coty Inc;male
+Crown Castle International Corp.;male
+CSX Corp.;male
+Cummins Inc.;male
+CVS Health;male
+D. R. Horton;male
+Danaher Corp.;male
+Darden Restaurants;male
+DaVita Inc.;male
+Deere & Co.;male
+Delta Air Lines Inc.;male
+Dentsply Sirona;male
+Devon Energy;male
+DexCom;male
+Diamondback Energy;male
+Digital Realty Trust Inc;male
+Discover Financial Services;male
+Discovery Inc. (Class A);male
+Discovery Inc. (Class C);male
+Dish Network;male
+Dollar General;male
+Dollar Tree;male
+Dominion Energy;male
+Domino's Pizza;male
+Dover Corporation;male
+Dow Inc.;male
+DTE Energy Co.;male
+Duke Energy;male
+Duke Realty Corp;female
+DuPont de Nemours Inc;male
+DXC Technology;male
+E*Trade;male
+Eastman Chemical;male
+Eaton Corporation;male
+eBay Inc.;male
+Ecolab Inc.;male
+Edison Int'l;male
+Edwards Lifesciences;male
+Electronic Arts;male
+Emerson Electric Company;male
+Entergy Corp.;male
+EOG Resources;male
+Equifax Inc.;male
+Equinix;male
+Equity Residential;male
+Essex Property Trust Inc.;male
+EstÃ©e Lauder Companies;male
+Everest Re Group Ltd.;male
+Evergy;male
+Eversource Energy;male
+Exelon Corp.;male
+Expedia Group;male
+Expeditors;male
+Extra Space Storage;male
+Exxon Mobil Corp.;male
+F5 Networks;male
+Facebook Inc.;male
+Fastenal Co;male
+Federal Realty Investment Trust;male
+FedEx Corporation;male
+Fidelity National Information Services;male
+Fifth Third Bancorp;male
+First Republic Bank;male
+FirstEnergy Corp;male
+Fiserv Inc;male
+FleetCor Technologies Inc;male
+FLIR Systems;male
+Flowserve Corporation;male
+FMC Corporation;male
+Ford Motor Company;male
+Fortinet;male
+Fortive Corp;male
+Fortune Brands Home & Security;male
+Fox Corporation (Class A);male
+Fox Corporation (Class B);male
+Franklin Resources;male
+Freeport-McMoRan Inc.;male
+Gap Inc.;female
+Garmin Ltd.;male
+Gartner Inc;male
+General Dynamics;female
+General Electric;male
+General Mills;male
+General Motors;female
+Genuine Parts;male
+Gilead Sciences;male
+Global Payments Inc.;male
+Globe Life Inc.;male
+Goldman Sachs Group;male
+Grainger (W.W.) Inc.;male
+H&R Block;male
+Halliburton Co.;male
+Hanesbrands Inc;male
+Hartford Financial Svc.Gp.;male
+Hasbro Inc.;male
+HCA Healthcare;male
+Healthpeak Properties;male
+Henry Schein;male
+Hess Corporation;male
+Hewlett Packard Enterprise;male
+Hilton Worldwide Holdings Inc;male
+HollyFrontier Corp;male
+Hologic;male
+Home Depot;male
+Honeywell Int'l Inc.;male
+Hormel Foods Corp.;male
+Host Hotels & Resorts;male
+Howmet Aerospace;male
+HP Inc.;male
+Humana Inc.;male
+Huntington Bancshares;male
+Huntington Ingalls Industries;male
+IDEX Corporation;male
+IDEXX Laboratories;male
+IHS Markit Ltd.;male
+Illinois Tool Works;male
+Illumina Inc;male
+Incyte;male
+Ingersoll Rand;male
+Intel Corp.;male
+Intercontinental Exchange;male
+International Business Machines;male
+International Flavors & Fragrances;male
+International Paper;male
+Interpublic Group;male
+Intuit Inc.;male
+Intuitive Surgical Inc.;male
+Invesco Ltd.;male
+IPG Photonics Corp.;male
+IQVIA Holdings Inc.;male
+Iron Mountain Incorporated;male
+J. B. Hunt Transport Services;male
+Jack Henry & Associates;male
+Jacobs Engineering Group;male
+JM Smucker;male
+Johnson & Johnson;male
+Johnson Controls International;male
+JPMorgan Chase & Co.;male
+Juniper Networks;male
+Kansas City Southern;male
+Kellogg Co.;male
+KeyCorp;male
+Keysight Technologies;male
+Kimberly-Clark;male
+Kimco Realty;male
+Kinder Morgan;male
+KLA Corporation;male
+Kohl's Corp.;male
+Kraft Heinz Co;male
+Kroger Co.;male
+L Brands Inc.;male
+L3Harris Technologies;male
+Laboratory Corp. of America Holding;male
+Lam Research;male
+Lamb Weston Holdings Inc;male
+Las Vegas Sands;male
+Leggett & Platt;male
+Leidos Holdings;male
+Lennar Corp.;male
+Lilly (Eli) & Co.;male
+Lincoln National;male
+Linde plc;male
+Live Nation Entertainment;male
+LKQ Corporation;male
+Lockheed Martin Corp.;male
+Loews Corp.;male
+Lowe's Cos.;male
+LyondellBasell;male
+M&T Bank Corp.;male
+Marathon Oil Corp.;male
+Marathon Petroleum;male
+MarketAxess;male
+Marriott Int'l.;male
+Marsh & McLennan;male
+Martin Marietta Materials;male
+Masco Corp.;male
+Mastercard Inc.;male
+Maxim Integrated Products Inc;male
+McCormick & Co.;male
+McDonald's Corp.;male
+McKesson Corp.;male
+Medtronic plc;male
+Merck & Co.;male
+MetLife Inc.;male
+Mettler Toledo;male
+MGM Resorts International;male
+Microchip Technology;male
+Micron Technology;male
+Microsoft Corp.;male
+Mid-America Apartments;male
+Mohawk Industries;male
+Molson Coors Beverage Company;male
+Mondelez International;male
+Monster Beverage;male
+Moody's Corp;male
+Morgan Stanley;male
+Motorola Solutions Inc.;male
+MSCI Inc;male
+Mylan N.V.;male
+Nasdaq Inc.;female
+National Oilwell Varco Inc.;male
+NetApp;male
+Netflix Inc.;male
+Newell Brands;male
+Newmont Corporation;male
+News Corp. Class A;male
+News Corp. Class B;male
+NextEra Energy;male
+Nielsen Holdings;male
+Nike Inc.;male
+NiSource Inc.;male
+Noble Energy;male
+Norfolk Southern Corp.;male
+Northern Trust Corp.;male
+Northrop Grumman;male
+NortonLifeLock;male
+Norwegian Cruise Line Holdings;male
+NRG Energy;male
+Nucor Corp.;male
+Nvidia Corporation;male
+NVR Inc.;male
+O'Reilly Automotive;male
+Occidental Petroleum;male
+Old Dominion Freight Line;male
+Omnicom Group;male
+ONEOK;male
+Oracle Corp.;female
+Otis Worldwide;male
+PACCAR Inc.;male
+Packaging Corporation of America;male
+Parker-Hannifin;male
+Paychex Inc.;male
+Paycom;male
+PayPal;male
+Pentair plc;male
+People's United Financial;male
+PepsiCo Inc.;male
+PerkinElmer;male
+Perrigo;male
+Pfizer Inc.;male
+Philip Morris International;male
+Phillips 66;male
+Pinnacle West Capital;male
+Pioneer Natural Resources;male
+PNC Financial Services;male
+PPG Industries;male
+PPL Corp.;male
+Principal Financial Group;male
+Procter & Gamble;male
+Progressive Corp.;male
+Prologis;male
+Prudential Financial;male
+Public Service Enterprise Group (PSEG);male
+Public Storage;male
+PulteGroup;male
+PVH Corp.;male
+Qorvo;male
+QUALCOMM Inc.;male
+Quanta Services Inc.;male
+Quest Diagnostics;male
+Ralph Lauren Corporation;male
+Raymond James Financial Inc.;male
+Raytheon Technologies;male
+Realty Income Corporation;male
+Regency Centers Corporation;female
+Regeneron Pharmaceuticals;male
+Regions Financial Corp.;male
+Republic Services Inc;male
+ResMed;male
+Robert Half International;male
+Rockwell Automation Inc.;male
+Rollins Inc.;male
+Roper Technologies;male
+Ross Stores;female
+Royal Caribbean Group;male
+S&P Global Inc.;male
+Salesforce.com;male
+SBA Communications;male
+Schlumberger Ltd.;male
+Seagate Technology;male
+Sealed Air;male
+Sempra Energy;male
+ServiceNow;male
+Sherwin-Williams;male
+Simon Property Group Inc;male
+Skyworks Solutions;male
+SL Green Realty;male
+Snap-on;male
+Southern Company;male
+Southwest Airlines;male
+Stanley Black & Decker;male
+Starbucks Corp.;male
+State Street Corp.;male
+STERIS plc;male
+Stryker Corp.;male
+SVB Financial;male
+Synchrony Financial;male
+Synopsys Inc.;male
+Sysco Corp.;male
+T-Mobile US;male
+T. Rowe Price Group;male
+Take-Two Interactive;male
+Tapestry Inc.;female
+Target Corp.;male
+TE Connectivity Ltd.;male
+TechnipFMC;male
+Teledyne Technologies;male
+Teleflex;male
+Texas Instruments;male
+Textron Inc.;male
+The Bank of New York Mellon;male
+The Clorox Company;female
+The Cooper Companies;male
+The Hershey Company;male
+The Mosaic Company;male
+The Travelers Companies Inc.;male
+The Walt Disney Company;male
+Thermo Fisher Scientific;male
+Tiffany & Co.;male
+TJX Companies Inc.;male
+Tractor Supply Company;male
+Trane Technologies plc;male
+TransDigm Group;male
+Truist Financial;male
+Twitter Inc.;male
+Tyler Technologies;male
+Tyson Foods;male
+U.S. Bancorp;male
+UDR Inc.;male
+Ulta Beauty;male
+Under Armour (Class A);male
+Under Armour (Class C);male
+Union Pacific Corp;male
+United Airlines Holdings;male
+United Health Group Inc.;male
+United Parcel Service;female
+United Rentals Inc.;male
+Universal Health Services;male
+Unum Group;male
+Valero Energy;male
+Varian Medical Systems;male
+Ventas Inc;female
+Verisign Inc.;male
+Verisk Analytics;male
+Verizon Communications;male
+Vertex Pharmaceuticals Inc;male
+VF Corporation;male
+ViacomCBS;male
+Visa Inc.;male
+Vornado Realty Trust;male
+Vulcan Materials;male
+W. R. Berkley Corporation;male
+Wabtec Corporation;male
+Walgreens Boots Alliance;male
+Walmart;male
+Waste Management Inc.;male
+Waters Corporation;male
+WEC Energy Group;male
+Wells Fargo;male
+Welltower Inc.;male
+West Pharmaceutical Services;male
+Western Digital;male
+Western Union Co;male
+WestRock;male
+Weyerhaeuser;male
+Whirlpool Corp.;male
+Williams Companies;male
+Willis Towers Watson;male
+Wynn Resorts Ltd;male
+Xcel Energy Inc;male
+Xerox;male
+Xilinx;male
+Xylem Inc.;male
+Yum! Brands Inc;male
+Zebra Technologies;male
+Zimmer Biomet Holdings;male
+Zions Bancorp;male
+Zoetis;female
