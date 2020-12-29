@@ -15,7 +15,7 @@ CocaCola,James Quincey,male
 Verizon,Hans Vestberg,male
 Merck,Stefan Oschmann,male
 Pfizer,Albert Bourla,male
-Chevron,Michael Wirth,male
+Chevron,George Lindemann,male
 Cisco Systems,Chuck Robbins,male
 Boeing,David Calhoun,male
 McDonalds,Chris Kempczinski,male
@@ -23,7 +23,7 @@ Nike,Mark Parker,male
 IBM,Arvin Krihna,male
 United Technologies,Gregory Hayes,male
 American Express,Stephan Squeri,male
-3M,Mike Roman,male
+3M,Eduardo Saverin,male
 Goldman Sachs,David Solomon,male
 Caterpillar,James Umpleby,male
 Walgreens Boots,Stefano Pessina,male
