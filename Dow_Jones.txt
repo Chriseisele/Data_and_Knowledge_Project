@@ -8,8 +8,8 @@ Walmart,Doug Mcmillon,male
 Procter&Gamble,David Taylor,male
 Intel,Robert Swan,male
 UnitedHealth,David Wichmann,male
-ExxonMobil,Darren Woods,male
-Home Depot,Craig Menear,male
+ExxonMobil,Morton Mandel,male
+Home Depot,John Tu,male
 Disney,Bob Chapek,male
 CocaCola,James Quincey,male
 Verizon,Hans Vestberg,male
