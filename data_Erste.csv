@@ -1,4 +1,4 @@
-﻿Datum,Eröffnungspreis,Tageshoch,Tagestief,Schlusspreis,Diff,Stückumsatz,Marktkapitalisierung,Geldumsatz
+﻿Datum,Eröffnungspreis,Tageshoch,Tagestief,Schlusspreis,Diff_pct,Stückumsatz,Marktkapitalisierung,Geldumsatz
 26.02.2020,32.24,33.13,31.85,32.96,1.10,2.482.582,14166208000,81.066.592
 27.02.2020,32.23,32.28,30.7,31,-5.95,3.093.346,13323800000,96.680.629
 28.02.2020,30.00,31.03,29.29,31.03,0.10,4.248.414,13336694000,128.846.202
